@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello i am Hergy Fongue,<br><br>I am a software developer working in banking and logistic sectors. <br>I am passionate about cloud technologies, telemetry and CI/CD pipelines.
+Hello i am Hergy Fongue,<br><br>I am a software developer working in banking and logistic sectors. <br>I am passionate about cloud technologies, open-telemetry and CI/CD pipelines.
 
 
 # 💻 Tech Stack:
