@@ -1,4 +1,4 @@
-# Hergy Tchuinkou Fongue
+# Hergy Fongue
 
 Software engineer (7+ years) in **banking** and **logistics** (DACH): Spring Boot, Kubernetes/GitOps, and Modernization of legacy systems.
 
