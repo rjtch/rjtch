@@ -1,12 +1,8 @@
 # Hergy Tchuinkou Fongue
 
-Software engineer (7+ years) in **banking** and **logistics** (DACH): Spring Boot, Kubernetes/GitOps, and IAM in regulated delivery.
-
-M.Sc. Computer Science candidate at FernUniversität in Hagen. Thesis on **sequential ML** (selective state-space models on study trajectories). Industry work at Finanz Informatik and PRODYNA (Markant).
+Software engineer (7+ years) in **banking** and **logistics** (DACH): Spring Boot, Kubernetes/GitOps, and Modernization of legacy systems.
 
 I care about **cloud platforms, GitOps, and CI/CD** you can operate in production. I am also looking at **agentic AI as delivery tooling**—local agents, tools/MCP, human-owned review—not as a substitute for tests or accountability.
-
-CKA · Azure AI Engineer (AI-102)
 
 # Tech stack
 
