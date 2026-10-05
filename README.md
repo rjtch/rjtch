@@ -2,7 +2,7 @@
 
 Software engineer (7+ years) in **banking** and **logistics** (DACH): Spring Boot, Kubernetes/GitOps, and Modernization of legacy systems.
 
-I care about **cloud platforms, GitOps, and CI/CD** you can operate in production. I am also looking at **agentic AI as delivery tooling**—local agents, tools/MCP, human-owned review—not as a substitute for tests or accountability.
+I care about **cloud platforms, GitOps, and CI/CD** you can operate in production. I am also looking at **agentic AI as delivery tooling** local agents, tools/MCP, human-owned review not as a substitute for tests or accountability.
 
 # Tech stack
 
